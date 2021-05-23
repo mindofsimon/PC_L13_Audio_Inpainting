@@ -1,5 +1,5 @@
 # PC_Inpainting_Audio
-## Project Course 2020/2021 @POLIMI
+## Project Course 2020/2021 @POLIMI Music & Acoustic Engineering
 
 *Details on Project_Requirements.pdf*
 
