@@ -15,7 +15,7 @@ Also, the reconstruction from audio to image can be implemented in two ways: usi
 
 *More details on Project_Requirements.pdf*
 
-##### Useful Links
+##### USEFUL LINKS
 - [Model Based Inpainting Method](https://scikit-image.org/docs/stable/auto_examples/filters/plot_inpaint.html)
 - [Pix 2 Pix Inpainting Method](https://paperswithcode.com/paper/image-to-image-translation-with-conditional)
 - [Deep Prior Inpainting Method](https://github.com/DmitryUlyanov/deep-image-prior)
