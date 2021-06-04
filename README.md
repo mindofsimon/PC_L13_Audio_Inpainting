@@ -19,7 +19,7 @@ Also, the reconstruction from audio to image can be implemented in two ways: usi
 - [Model Based Inpainting Method](https://scikit-image.org/docs/stable/auto_examples/filters/plot_inpaint.html)
 - [Pix 2 Pix Inpainting Method](https://paperswithcode.com/paper/image-to-image-translation-with-conditional)
 - [Deep Prior Inpainting Method](https://github.com/DmitryUlyanov/deep-image-prior)
-- [griffin lim](https://librosa.org/doc/main/generated/librosa.griffinlim.html)
+- [griffinlim](https://librosa.org/doc/main/generated/librosa.griffinlim.html)
 - [PESQ](https://pypi.org/project/pesq/)
 - [SSIM](https://scikit-image.org/docs/dev/auto_examples/transform/plot_ssim.html)
 
