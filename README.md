@@ -13,7 +13,7 @@ Our evaluation consist in a confront on both the reconstructed image (metrics: *
 
 Also, the reconstruction from audio to image can be implemented in two ways: using **original phase** or approximating it with **griffinlim** algorithm.
 
-*More details on Project_Requirements.pdf*
+*More details on Documentation.pdf* inside documentation folder.
 
 ##### USEFUL LINKS
 - [Model Based Inpainting Method](https://scikit-image.org/docs/stable/auto_examples/filters/plot_inpaint.html)
