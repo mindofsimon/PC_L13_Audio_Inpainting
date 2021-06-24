@@ -15,9 +15,9 @@ Also, the reconstruction from audio to image can be implemented in two ways: usi
 
 A brief description on the project can be found in *Project_Requirements.pdf*
 
-Further details on the whole project on our report *L13.pdf* inside report folder.
+Further details on the whole project on our report *L13_Report.pdf* inside report folder.
 
-More details about the scripts implementation on *Documentation.pdf* inside documentation folder.
+More details about the scripts implementation on *PC_L13_Documentation.pdf* inside documentation folder.
 
 ##### USEFUL LINKS
 - [Model Based Inpainting Method](https://scikit-image.org/docs/stable/auto_examples/filters/plot_inpaint.html)
